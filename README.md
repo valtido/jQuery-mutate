@@ -1,2 +1,1 @@
-# jQuery-mutate
-hunter
+# hello nukkamoto :)
